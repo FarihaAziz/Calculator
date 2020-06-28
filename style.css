@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+.btn {
+    background-color:rgb(97, 177, 175);
+    width: 45px;
+    width: 45px;;
+    width: 45px;
+    height: 39px;
+    margin: 1px;
+    border-radius: 16px;
+}
+.main {
+    border: 3px solid rgb(16, 16, 16);
+    height: 250px;
+    margin: 0 auto;
+    width: 200px;
+    padding-top: 1px;
+    background-color: rgb(245, 115, 115);
+}
+.result {
+    width: 98%;
+    height: 39px;
+    background-color: white;
+    color: rgb(14, 13, 13);
+}
+.btn-1{
+    
+    width: 92px;
+    height: 39px;
+    margin: 1px;
+    border-radius: 16px;
+    background-color:rgb(97, 177, 175);
+
+}
+
